@@ -76,10 +76,8 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
 ![flat top](https://github.com/user-attachments/assets/f9c8cb5e-474c-4bea-858a-e48f16121342)
 ![WhatsApp Image 2025-05-10 at 23 05 44_72003897](https://github.com/user-attachments/assets/c2af19ae-482a-41c9-8d43-a34cfef7332d)
 
-```
 # Results
 Thus, A Python program is successfully executed for the Construction and Reconctruction of Flat-Top Sampleing.
